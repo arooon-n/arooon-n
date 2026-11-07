@@ -2,7 +2,6 @@
   "name": "arooon-n-profile",
   "private": true,
   "type": "module",
-  "description": "Generates the SVG artwork behind the arooon-n GitHub profile README.",
-  "scripts": { "build": "node scripts/generate.mjs" },
-  "dependencies": { "opentype.js": "^1.3.4" }
+  "description": "Generates the LED artwork behind the arooon-n GitHub profile README.",
+  "scripts": { "build": "node scripts/generate.mjs" }
 }
