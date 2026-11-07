@@ -1,0 +1,37 @@
+# Rebuilds the departure board and README from live GitHub data.
+# Optional: add a repository secret named PROFILE_TOKEN so the count of private
+# repos and private contributions stays current. Private repo names are never fetched.
+name: Update profile
+
+on:
+  schedule:
+    - cron: "30 3 * * 1" # every Monday, 09:00 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - network.config.json
+      - scripts/**
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: npm run build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets
+          git diff --cached --quiet || (git commit -m "Update live departures" && git push)

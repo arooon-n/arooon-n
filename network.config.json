@@ -1,0 +1,316 @@
+{
+  "user": "arooon-n",
+  "name": "Arunoday A K",
+  "tagline": "Data, optimisation and applied AI.",
+  "meta": "Dept. of AI, Amrita Vishwa Vidyapeetham  /  Chennai + Coimbatore",
+  "bio": ": \"hello world\" ing",
+  "repoTotal": 35,
+  "links": [],
+  "lines": [
+    {
+      "id": "data",
+      "name": "Data & Optimisation",
+      "dark": "#C68406",
+      "light": "#CF6400",
+      "tools": "Python, Pyomo, HiGHS, ADMM, graph algorithms, Streamlit, NetworkX, Kafka, Spark, Scala, HDFS, Docker, Dash"
+    },
+    {
+      "id": "ai",
+      "name": "Applied AI",
+      "dark": "#CF6BA6",
+      "light": "#BE4E98",
+      "tools": "Groq, Gemini, Whisper, Ollama, RAG with pgvector, FastAPI, PyMuPDF"
+    },
+    {
+      "id": "ml",
+      "name": "Machine Learning",
+      "dark": "#0F9F75",
+      "light": "#078A63",
+      "tools": "CNN-BiLSTM, EEG decoding, LSTM, GRU, CNNs, SARIMA, Holt-Winters, Jupyter"
+    },
+    {
+      "id": "product",
+      "name": "Product & Systems",
+      "dark": "#3D97E0",
+      "light": "#1A6FC0",
+      "tools": "TypeScript, React, React Native, Expo, Next.js, Supabase, Tailwind, Java, C, OpenCV, ESP32"
+    }
+  ],
+  "aliases": {
+    "NUMBAT-TfL-OR": "TFL NUMBAT OPTIMISER",
+    "metro-train-frequency-capacity-optimization": "METRO FREQUENCY OPTIMISER",
+    "Hybrid-Statistical-DeepLearning-Model": "HYBRID FORECASTING",
+    "bitcoin-volatility-analysis": "BITCOIN VOLATILITY",
+    "bitcoin-volatility-analysis-using-spark": "BITCOIN VOLATILITY SPARK",
+    "literature-mining-hydrogen-storage-alloys": "HYDROGEN LITERATURE MINER",
+    "realtime_emotion_detection_using_CNN": "EMOTION DETECTION CNN",
+    "ML_Model_for_predicting_protein_protein_interaction": "PROTEIN INTERACTION ML",
+    "SmartRoute-ADMM": "SMARTROUTE ADMM"
+  },
+  "map": [
+    {
+      "label": "Protein Interaction ML",
+      "line": "ml",
+      "x": 190,
+      "pos": "above"
+    },
+    {
+      "label": "Emotion CNN",
+      "line": "ml",
+      "x": 326,
+      "pos": "above"
+    },
+    {
+      "label": "NeuroGrip",
+      "line": "ml",
+      "x": 420,
+      "pos": "above",
+      "bold": true
+    },
+    {
+      "label": "Gesture Mouse",
+      "line": "product",
+      "x": 195,
+      "pos": "below",
+      "bold": true
+    },
+    {
+      "label": "SolarView",
+      "line": "product",
+      "x": 282,
+      "pos": "above"
+    },
+    {
+      "label": "P2P Sharing",
+      "line": "product",
+      "x": 360,
+      "pos": "below"
+    },
+    {
+      "label": "UniTrade",
+      "line": "product",
+      "x": 468,
+      "pos": "below"
+    },
+    {
+      "label": "WiseEnergy",
+      "line": "product",
+      "x": 555,
+      "pos": "below"
+    },
+    {
+      "label": "Hydrogen Literature Miner",
+      "line": "ai",
+      "x": 474,
+      "pos": "above",
+      "bold": true
+    },
+    {
+      "label": "AcadEase",
+      "line": "product",
+      "also": "ai",
+      "x": 640,
+      "pos": "below",
+      "bold": true
+    },
+    {
+      "label": "Epidemic Simulator",
+      "line": "data",
+      "x": 258,
+      "pos": "below"
+    },
+    {
+      "label": "SmartRoute-ADMM",
+      "line": "data",
+      "x": 420,
+      "pos": "below",
+      "bold": true
+    },
+    {
+      "label": "Bitcoin Volatility",
+      "line": "data",
+      "x": 672,
+      "pos": "below-end",
+      "bold": true
+    },
+    {
+      "label": "Hybrid Forecasting",
+      "line": "data",
+      "also": "ml",
+      "x": 745,
+      "pos": "below-start",
+      "bold": true
+    },
+    {
+      "label": "TfL NUMBAT Optimiser",
+      "line": "data",
+      "x": 838,
+      "pos": "above",
+      "bold": true
+    }
+  ],
+  "featured": [
+    {
+      "slug": "numbat",
+      "title": "TfL NUMBAT Optimiser",
+      "repo": "NUMBAT-TfL-OR",
+      "line": "data",
+      "date": "SEP 2026",
+      "desc": "Turns raw London crowding data into train-frequency recommendations:",
+      "desc2": "1,214 links, 19 lines, 482 stations, three optimisation models.",
+      "short": "Optimises metro frequency on real TfL data",
+      "tech": "Python  Pyomo  HiGHS  Streamlit  NetworkX"
+    },
+    {
+      "slug": "smartroute",
+      "title": "SmartRoute-ADMM",
+      "repo": "SmartRoute-ADMM",
+      "line": "data",
+      "date": "JAN 2025",
+      "desc": "Bus scheduling and route management that uses ADMM and hierarchical ADMM",
+      "desc2": "to allocate fleet resources around passenger demand and peak hours.",
+      "short": "Bus scheduling with ADMM optimisation",
+      "tech": "Python  ADMM  GIS"
+    },
+    {
+      "slug": "bitcoin",
+      "title": "Bitcoin Volatility Pipeline",
+      "repo": "bitcoin-volatility-analysis",
+      "line": "data",
+      "date": "MAR 2026",
+      "desc": "Live prices flow through Kafka, Spark Structured Streaming and HDFS",
+      "desc2": "into a Dash dashboard that refreshes every 10 seconds.",
+      "short": "Real-time streaming analytics pipeline",
+      "tech": "Kafka  Spark  Scala  HDFS  Docker  Dash"
+    },
+    {
+      "slug": "hybrid",
+      "title": "Hybrid Electricity Forecasting",
+      "repo": "Hybrid-Statistical-DeepLearning-Model",
+      "line": "ml",
+      "also": "data",
+      "date": "MAR 2026",
+      "desc": "Team IEEE-format study comparing SARIMA, Holt-Winters, LSTM and GRU",
+      "desc2": "on household power data, and proposing two hybrid models.",
+      "short": "Statistical + deep learning forecasting study",
+      "tech": "SARIMA  Holt-Winters  LSTM  GRU"
+    },
+    {
+      "slug": "neurogrip",
+      "title": "NeuroGrip",
+      "repo": "NeuroGrip",
+      "line": "ml",
+      "date": "JAN 2025",
+      "desc": "A brain-machine interface that decodes EEG motor imagery with a CNN-BiLSTM",
+      "desc2": "network to steer a robotic arm in six directions.",
+      "short": "EEG-controlled robotic arm",
+      "tech": "EEG  CNN-BiLSTM  Robotics  Jupyter"
+    },
+    {
+      "slug": "hydrogen",
+      "title": "Hydrogen Literature Miner",
+      "repo": "literature-mining-hydrogen-storage-alloys",
+      "line": "ai",
+      "date": "SEP 2025",
+      "desc": "Reads materials-science PDFs with a local LLM and a rule-based fallback,",
+      "desc2": "then exports alloy compositions and properties as a clean table.",
+      "short": "LLM extraction from research papers",
+      "tech": "Python  Ollama  PyMuPDF  FastAPI"
+    },
+    {
+      "slug": "acadease",
+      "title": "AcadEase",
+      "repo": "AcadEase",
+      "line": "ai",
+      "also": "product",
+      "date": "DEC 2025",
+      "desc": "AI academic companion for phones: live lecture transcription, chat with",
+      "desc2": "your own notes, exam roadmaps and academic risk detection.",
+      "short": "AI study companion for Android",
+      "tech": "React Native  Expo  Supabase  pgvector  Groq  FastAPI"
+    },
+    {
+      "slug": "gesture",
+      "title": "Gesture Controlled Virtual Mouse",
+      "repo": "Gesture_Controlled_Virtual_Mouse_using_ESP32",
+      "line": "product",
+      "date": "SEP 2024",
+      "desc": "Moves the cursor with hand gestures, combining hand tracking in Python",
+      "desc2": "with a live video stream from an ESP32.",
+      "short": "Hand-tracking mouse using an ESP32",
+      "tech": "Python  OpenCV  ESP32"
+    }
+  ],
+  "otherStops": [
+    {
+      "title": "Epidemic Spread Simulator",
+      "repo": "epidemic-spread-simulator-using-graphs",
+      "desc": "disease spread over graphs in C, using Dijkstra, Prim's and greedy strategies, with adjacency list and matrix runtimes compared"
+    },
+    {
+      "title": "Metro Frequency Optimiser",
+      "repo": "metro-train-frequency-capacity-optimization",
+      "desc": "decision-support system on TfL NUMBAT data, with run manifests and scenario analysis"
+    },
+    {
+      "title": "UniTrade",
+      "repo": "UniTrade",
+      "desc": "university marketplace platform built with React, TypeScript and Supabase"
+    },
+    {
+      "title": "WiseEnergy",
+      "repo": "WiseEnergy",
+      "desc": "Next.js and TypeScript app"
+    },
+    {
+      "title": "Bitcoin Volatility on Spark",
+      "repo": "bitcoin-volatility-analysis-using-spark",
+      "desc": "big data pre-processing and volatility analysis"
+    },
+    {
+      "title": "NeuroGrip Report",
+      "repo": "NeuroGrip-Report",
+      "desc": "project report site for NeuroGrip"
+    },
+    {
+      "title": "Space ARS",
+      "repo": "space-ars",
+      "desc": "spacecraft reservation system using Python and MySQL"
+    },
+    {
+      "title": "P2P File Sharing",
+      "repo": "P2P_File_Sharing",
+      "desc": "peer-to-peer file sharing with client, peer and server in Python"
+    },
+    {
+      "title": "SolarView",
+      "repo": "nasa-space-apps",
+      "desc": "animated solar system explorer"
+    },
+    {
+      "title": "Emotion Detection",
+      "repo": "realtime_emotion_detection_using_CNN",
+      "desc": "real-time emotion recognition with a CNN"
+    },
+    {
+      "title": "Protein Interaction ML",
+      "repo": "ML_Model_for_predicting_protein_protein_interaction",
+      "desc": "predicting protein-protein interactions"
+    },
+    {
+      "title": "2D Adventure Game",
+      "repo": "2D_Adventure_game_in_Java",
+      "desc": "tile-based game in Java with entities and monsters"
+    },
+    {
+      "title": "Hangman in Jack",
+      "repo": "Hangman_Game_in_Jack",
+      "desc": "Hangman written in the Jack language"
+    },
+    {
+      "title": "Amrita DormDash",
+      "repo": "Amrita_DormDash_UI_Design",
+      "desc": "UI design project"
+    }
+  ]
+}
