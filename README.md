@@ -23,7 +23,7 @@ I build systems that turn messy, real-world data into decisions, from metro and 
 
 Real activity from this account, refreshed every week by a GitHub Action.
 
-<img src="assets/departures.svg" alt="Departure board. Latest public pushes: TFL NUMBAT OPTIMISER on 13 OCT, METRO FREQUENCY OPTIMISER on 23 SEP, HYBRID FORECASTING on 24 MAR, BITCOIN VOLATILITY on 10 MAR. 110 contributions in the last 12 months across 41 active days." width="100%">
+<img src="assets/departures.svg" alt="Departure board. Latest public pushes: TFL NUMBAT OPTIMISER on 13 OCT, METRO FREQUENCY OPTIMISER on 23 SEP, HYBRID FORECASTING on 24 MAR, BITCOIN VOLATILITY on 10 MAR. 112 contributions in the last 12 months across 42 active days." width="100%">
 
 ## Line guide
 
