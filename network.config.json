@@ -1,383 +1,76 @@
 {
   "user": "arooon-n",
-  "name": "ARUNODAY A K",
-  "org": "AMRITA VISHWA VIDYAPEETHAM",
-  "location": "CHENNAI + COIMBATORE",
+  "name": "Arunoday A K",
+  "subtitle": "Designer, developer, software engineer.",
+  "meta": "Dept. of AI, Amrita Vishwa Vidyapeetham  /  Chennai + Coimbatore",
   "bio": ": \"hello world\" ing",
   "repoTotal": 36,
-  "roles": [
-    "FRONTEND DEVELOPER",
-    "UI/UX DESIGNER",
-    "SOFTWARE ENGINEER",
-    "WEB DESIGN + SEO",
-    "AI + DATA SYSTEMS"
-  ],
-  "callingAt": "CALLING AT:  WEB DESIGN  *  FRONTEND  *  UI/UX  *  SEO  *  MOBILE APPS  *  BACKEND  *  AI + ML  *  DATA PIPELINES  *  OPTIMISATION  *  ",
-  "intro": "**Frontend developer, UI/UX designer and software engineer.** I design and build websites, apps and the systems behind them, and I handle the SEO so people can actually find them. My background in AI and data shows up in everything from a brain-controlled robotic arm to metro network optimisation.",
-  "privateNote": "Many of my design projects live in private repos. Ask me for a walkthrough.",
+  "cursors": ["UI/UX", "Frontend", "SEO", "AI + Data"],
+  "statement": {
+    "lines": [
+      [["I ", "display"], ["design", "serif"], [" websites,", "display"]],
+      [["build", "serif"], [" what runs behind them,", "display"]],
+      [["and make sure people", "display"]],
+      [["can actually ", "display"], ["find them.", "serifbox"]]
+    ],
+    "footnote": "Also: a brain-controlled robotic arm, and metro networks optimised on real data.",
+    "alt": "I design websites, build what runs behind them, and make sure people can actually find them. Frontend developer, UI/UX designer and software engineer, also working on AI and data: a brain-controlled robotic arm, and metro networks optimised on real data."
+  },
   "contacts": [
-    {
-      "slug": "linkedin",
-      "logo": "linkedin",
-      "name": "LINKEDIN",
-      "value": "arunoday-a-k",
-      "url": "https://www.linkedin.com/in/arunoday-a-k/"
-    },
-    {
-      "slug": "instagram",
-      "logo": "instagram",
-      "name": "INSTAGRAM",
-      "value": "arooon__n",
-      "url": "https://www.instagram.com/arooon__n"
-    },
-    {
-      "slug": "mail",
-      "logo": "gmail",
-      "name": "MAIL",
-      "value": "akarunoday2005@gmail.com",
-      "url": "mailto:akarunoday2005@gmail.com"
-    }
+    { "slug": "linkedin", "logo": "linkedin", "name": "LinkedIn", "value": "arunoday-a-k", "url": "https://www.linkedin.com/in/arunoday-a-k/", "color": "#0A66C2" },
+    { "slug": "instagram", "logo": "instagram", "name": "Instagram", "value": "arooon__n", "url": "https://www.instagram.com/arooon__n", "gradient": ["#FEDA75", "#FA7E1E", "#D62976", "#962FBF", "#4F5BD5"] },
+    { "slug": "mail", "logo": "gmail", "name": "Mail", "value": "akarunoday2005@gmail.com", "url": "mailto:akarunoday2005@gmail.com", "color": "#EA4335" }
   ],
   "sites": [
     {
       "slug": "heldygo",
-      "domain": "HELDYGO.COM",
+      "domain": "heldygo.com",
       "url": "https://heldygo.com",
       "image": "heldygo.jpg",
-      "what": "SITE FOR A MILLET SNACK MAKER",
-      "alt": "heldygo.com, the website for HeldyFarm Foods, a millet snack manufacturer. Design, build and SEO."
+      "seoTitle": "HeldyFarm Foods LLP | Healthy Millet Snacks Manufacturing",
+      "seoDesc": "Discover HeldyFarm Foods - a women-led millet snacks manufacturer in Hyderabad. We offer bulk manufacturing and white labeling services for nutritious, healthy snacks.",
+      "alt": "heldygo.com, the website for HeldyFarm Foods, a millet snack manufacturer. Design, build and SEO, shown with its search result title and description."
     },
     {
       "slug": "hightechinteriors",
-      "domain": "HIGHTECHINTERIORS.IN",
+      "domain": "hightechinteriors.in",
       "url": "https://hightechinteriors.in",
       "image": "hightechinteriors.jpg",
-      "what": "SITE FOR AN INTERIOR DESIGN FIRM",
-      "alt": "hightechinteriors.in, the website for Hightech Interiors, an interior design firm in Kannur. Design, build and SEO."
+      "seoTitle": "Hightech Interiors | Interior Designers in Kannur, Kerala — Homes, Kitchens & Offices",
+      "seoDesc": "Hightech Interiors — interior designers in Kannur, Kerala with 15+ years and 200+ projects. Home interiors, modular kitchens, wardrobes, offices and turnkey projects.",
+      "alt": "hightechinteriors.in, the website for Hightech Interiors, an interior design firm in Kannur. Design, build and SEO, shown with its search result title and description."
     }
   ],
-  "boards": [
-    {
-      "slug": "design",
-      "title": "DESIGN + FRONTEND",
-      "rows": [
-        {
-          "slug": "acadease",
-          "title": "ACADEASE",
-          "repo": "AcadEase",
-          "date": "DEC 25",
-          "desc": "AI study app: live lecture notes, chat with notes, exam plans",
-          "short": "AI study app for Android",
-          "via": "REACT NATIVE  EXPO  SUPABASE  PGVECTOR  FASTAPI"
-        },
-        {
-          "slug": "unitrade",
-          "title": "UNITRADE",
-          "repo": "UniTrade",
-          "date": "JUL 25",
-          "desc": "Marketplace platform built for university students",
-          "short": "University marketplace platform",
-          "via": "REACT  TYPESCRIPT  TAILWIND  EXPRESS  SUPABASE"
-        },
-        {
-          "slug": "dormdash",
-          "title": "AMRITA DORMDASH",
-          "repo": "Amrita_DormDash_UI_Design",
-          "date": "SEP 24",
-          "desc": "UI design for campus canteen and store ordering",
-          "short": "Campus ordering UI design",
-          "via": "UI DESIGN  HTML  CSS"
-        },
-        {
-          "slug": "moredesign",
-          "title": "MORE DESIGN WORK",
-          "private": true,
-          "date": "",
-          "desc": "Websites and design projects in private repos. Ask for a tour",
-          "short": "Private projects. Ask for a tour",
-          "via": "",
-          "url": "mailto:akarunoday2005@gmail.com?subject=Design%20work",
-          "status": "ASK ME >"
-        }
-      ]
-    },
-    {
-      "slug": "software",
-      "title": "SOFTWARE + AI",
-      "rows": [
-        {
-          "slug": "numbat",
-          "title": "TFL NUMBAT OPTIMISER",
-          "repo": "NUMBAT-TfL-OR",
-          "date": "SEP 26",
-          "desc": "Optimises metro frequency on TfL data: 482 stations, 3 models",
-          "short": "Metro optimisation on real TfL data",
-          "via": "PYTHON  PYOMO  HIGHS  STREAMLIT  NETWORKX"
-        },
-        {
-          "slug": "neurogrip",
-          "title": "NEUROGRIP",
-          "repo": "NeuroGrip",
-          "date": "JAN 25",
-          "desc": "Brain-machine interface: EEG signals steer a robotic arm",
-          "short": "EEG-controlled robotic arm",
-          "via": "EEG  CNN-BILSTM  TENSORFLOW  PYTORCH"
-        },
-        {
-          "slug": "bitcoin",
-          "title": "BITCOIN VOLATILITY",
-          "repo": "bitcoin-volatility-analysis",
-          "date": "MAR 26",
-          "desc": "Real-time volatility pipeline from live prices to dashboard",
-          "short": "Real-time streaming data pipeline",
-          "via": "KAFKA  SPARK  SCALA  HDFS  DOCKER  DASH"
-        },
-        {
-          "slug": "smartroute",
-          "title": "SMARTROUTE-ADMM",
-          "repo": "SmartRoute-ADMM",
-          "date": "JAN 25",
-          "desc": "Bus scheduling and routing optimised with hierarchical ADMM",
-          "short": "Bus scheduling with ADMM",
-          "via": "PYTHON  ADMM  GIS"
-        },
-        {
-          "slug": "hybrid",
-          "title": "HYBRID ELECTRICITY FORECASTING",
-          "narrowTitle": "HYBRID FORECASTING",
-          "repo": "Hybrid-Statistical-DeepLearning-Model",
-          "date": "MAR 26",
-          "desc": "IEEE-format study of statistical and deep learning forecasts",
-          "short": "Statistical + deep learning study",
-          "via": "SARIMA  HOLT-WINTERS  LSTM  GRU"
-        },
-        {
-          "slug": "hydrogen",
-          "title": "HYDROGEN LITERATURE MINER",
-          "narrowTitle": "HYDROGEN MINER",
-          "repo": "literature-mining-hydrogen-storage-alloys",
-          "date": "SEP 25",
-          "desc": "Extracts alloy data from research PDFs using a local LLM",
-          "short": "LLM extraction from research papers",
-          "via": "PYTHON  OLLAMA  PYMUPDF  FASTAPI"
-        },
-        {
-          "slug": "gesture",
-          "title": "GESTURE VIRTUAL MOUSE",
-          "repo": "Gesture_Controlled_Virtual_Mouse_using_ESP32",
-          "date": "SEP 24",
-          "desc": "Moves the cursor with hand gestures over an ESP32 video feed",
-          "short": "Hand-tracking mouse with ESP32",
-          "via": "PYTHON  OPENCV  ESP32"
-        }
-      ]
-    }
+  "projects": [
+    [
+      { "slug": "numbat", "art": "network", "title": "TfL NUMBAT Optimiser", "phone": "TfL NUMBAT", "repo": "NUMBAT-TfL-OR", "date": "2026", "accent": "#5BB8FF", "desc": "Turns raw London crowding data into train-frequency recommendations: 482 stations, three optimisation models.", "tech": "Python  Pyomo  HiGHS  Streamlit" },
+      { "slug": "neurogrip", "art": "eeg", "title": "NeuroGrip", "phone": "NeuroGrip", "repo": "NeuroGrip", "date": "2025", "accent": "#B79CFF", "desc": "A brain-machine interface: EEG signals steer a robotic arm.", "tech": "CNN-BiLSTM  TensorFlow" }
+    ],
+    [
+      { "slug": "acadease", "art": "phone", "title": "AcadEase", "phone": "AcadEase", "repo": "AcadEase", "date": "2025", "accent": "#FF8FB8", "desc": "AI study app: live lecture notes, chat with your notes, exam plans.", "tech": "React Native  Supabase" },
+      { "slug": "bitcoin", "art": "candles", "title": "Bitcoin Volatility", "phone": "Bitcoin", "repo": "bitcoin-volatility-analysis", "date": "2026", "accent": "#FFB000", "desc": "A real-time pipeline: live prices through Kafka, Spark and HDFS into a dashboard that refreshes every 10 seconds.", "tech": "Kafka  Spark  Scala  HDFS  Dash" }
+    ],
+    [
+      { "slug": "smartroute", "art": "route", "title": "SmartRoute-ADMM", "phone": "SmartRoute", "repo": "SmartRoute-ADMM", "date": "2025", "accent": "#3DDC84", "desc": "Bus scheduling and route management, using hierarchical ADMM to allocate fleet resources around demand.", "tech": "Python  ADMM  GIS" },
+      { "slug": "hydrogen", "art": "doc", "title": "Hydrogen Miner", "phone": "Hydrogen", "repo": "literature-mining-hydrogen-storage-alloys", "date": "2025", "accent": "#5FE3D6", "desc": "Pulls alloy data out of research PDFs using a local LLM.", "tech": "Ollama  PyMuPDF  FastAPI" }
+    ],
+    [
+      { "slug": "gesture", "art": "hand", "title": "Gesture Mouse", "phone": "Gesture", "repo": "Gesture_Controlled_Virtual_Mouse_using_ESP32", "date": "2024", "accent": "#FFA36B", "desc": "Moves the cursor with hand gestures over an ESP32 video feed.", "tech": "Python  OpenCV  ESP32" },
+      { "slug": "hybrid", "art": "forecast", "title": "Hybrid Forecasting", "phone": "Hybrid", "repo": "Hybrid-Statistical-DeepLearning-Model", "date": "2026", "accent": "#C7E36B", "desc": "IEEE-format team study comparing SARIMA, Holt-Winters, LSTM and GRU on household power, and proposing two hybrid models.", "tech": "SARIMA  Holt-Winters  LSTM  GRU" }
+    ]
   ],
-  "stack": [
-    {
-      "title": "DESIGN + FRONTEND",
-      "items": [
-        [
-          "figma",
-          "FIGMA"
-        ],
-        [
-          "react",
-          "REACT"
-        ],
-        [
-          "nextdotjs",
-          "NEXT.JS"
-        ],
-        [
-          "typescript",
-          "TYPESCRIPT"
-        ],
-        [
-          "javascript",
-          "JAVASCRIPT"
-        ],
-        [
-          "html5",
-          "HTML5"
-        ],
-        [
-          "css",
-          "CSS"
-        ],
-        [
-          "tailwindcss",
-          "TAILWIND"
-        ],
-        [
-          "framer",
-          "MOTION"
-        ],
-        [
-          "vite",
-          "VITE"
-        ],
-        [
-          "expo",
-          "EXPO"
-        ],
-        [
-          "shadcnui",
-          "SHADCN/UI"
-        ],
-        [
-          "seo",
-          "SEO"
-        ]
-      ]
-    },
-    {
-      "title": "BACKEND + DEVOPS",
-      "items": [
-        [
-          "nodedotjs",
-          "NODE.JS"
-        ],
-        [
-          "express",
-          "EXPRESS"
-        ],
-        [
-          "fastapi",
-          "FASTAPI"
-        ],
-        [
-          "supabase",
-          "SUPABASE"
-        ],
-        [
-          "postgresql",
-          "POSTGRES"
-        ],
-        [
-          "mysql",
-          "MYSQL"
-        ],
-        [
-          "docker",
-          "DOCKER"
-        ],
-        [
-          "vercel",
-          "VERCEL"
-        ],
-        [
-          "render",
-          "RENDER"
-        ],
-        [
-          "cloudinary",
-          "CLOUDINARY"
-        ],
-        [
-          "git",
-          "GIT"
-        ],
-        [
-          "github",
-          "GITHUB"
-        ],
-        [
-          "githubactions",
-          "ACTIONS"
-        ]
-      ]
-    },
-    {
-      "title": "AI + DATA",
-      "items": [
-        [
-          "python",
-          "PYTHON"
-        ],
-        [
-          "tensorflow",
-          "TENSORFLOW"
-        ],
-        [
-          "pytorch",
-          "PYTORCH"
-        ],
-        [
-          "keras",
-          "KERAS"
-        ],
-        [
-          "scikitlearn",
-          "SCIKIT"
-        ],
-        [
-          "numpy",
-          "NUMPY"
-        ],
-        [
-          "pandas",
-          "PANDAS"
-        ],
-        [
-          "opencv",
-          "OPENCV"
-        ],
-        [
-          "jupyter",
-          "JUPYTER"
-        ],
-        [
-          "ollama",
-          "OLLAMA"
-        ],
-        [
-          "googlegemini",
-          "GEMINI"
-        ],
-        [
-          "apachespark",
-          "SPARK"
-        ],
-        [
-          "apachekafka",
-          "KAFKA"
-        ],
-        [
-          "apachehadoop",
-          "HADOOP"
-        ],
-        [
-          "streamlit",
-          "STREAMLIT"
-        ],
-        [
-          "plotly",
-          "PLOTLY"
-        ]
-      ]
-    },
-    {
-      "title": "SYSTEMS",
-      "items": [
-        [
-          "openjdk",
-          "JAVA"
-        ],
-        [
-          "c",
-          "C"
-        ],
-        [
-          "scala",
-          "SCALA"
-        ],
-        [
-          "espressif",
-          "ESP32"
-        ]
-      ]
-    }
+  "smallCards": [
+    { "slug": "unitrade", "title": "UniTrade", "repo": "UniTrade", "logos": ["react", "typescript", "supabase"], "desc": "Marketplace platform built for university students." },
+    { "slug": "dormdash", "title": "Amrita DormDash", "repo": "Amrita_DormDash_UI_Design", "logos": ["html5", "css"], "desc": "UI design for campus canteen and store ordering." },
+    { "slug": "moredesign", "title": "More design work", "url": "mailto:akarunoday2005@gmail.com?subject=Design%20work", "highlight": true, "logos": ["figma", "canva", "adobephotoshop"], "desc": "Websites and design projects in private repos. Ask for a tour." }
+  ],
+  "keyboard": [
+    ["#Design:1.5", "figma:Figma", "canva:Canva", "adobephotoshop:Photoshop", "seo:SEO", "#Frontend:1.5", "react:React", "nextdotjs:Next.js", "typescript:TypeScript", "javascript:JavaScript"],
+    ["html5:HTML5", "css:CSS", "tailwindcss:Tailwind", "framer:Motion", "vite:Vite", "expo:Expo", "shadcnui:shadcn/ui", "#Backend:2", "nodedotjs:Node.js", "express:Express"],
+    ["fastapi:FastAPI", "supabase:Supabase", "postgresql:Postgres", "mysql:MySQL", "docker:Docker", "vercel:Vercel", "render:Render", "cloudinary:Cloudinary", "git:Git", "github:GitHub", "githubactions:Actions"],
+    ["#AI + Data:2", "python:Python", "tensorflow:TensorFlow", "pytorch:PyTorch", "keras:Keras", "scikitlearn:Scikit", "numpy:NumPy", "pandas:pandas", "opencv:OpenCV", "jupyter:Jupyter"],
+    ["ollama:Ollama", "googlegemini:Gemini", "apachespark:Spark", "apachekafka:Kafka", "apachehadoop:Hadoop", "streamlit:Streamlit", "plotly:Plotly", "!return:4"],
+    ["#Systems:1.5", "openjdk:Java", "c:C", "scala:Scala", "espressif:ESP32", "!space:5.5"]
   ],
   "aliases": {
     "NUMBAT-TfL-OR": "TFL NUMBAT OPTIMISER",
@@ -391,65 +84,17 @@
     "SmartRoute-ADMM": "SMARTROUTE ADMM"
   },
   "otherStops": [
-    {
-      "title": "WiseEnergy",
-      "repo": "WiseEnergy",
-      "desc": "Next.js and TypeScript app"
-    },
-    {
-      "title": "SolarView",
-      "repo": "nasa-space-apps",
-      "desc": "animated solar system explorer"
-    },
-    {
-      "title": "Epidemic Spread Simulator",
-      "repo": "epidemic-spread-simulator-using-graphs",
-      "desc": "disease spread over graphs in C, using Dijkstra, Prim's and greedy strategies"
-    },
-    {
-      "title": "Metro Frequency Optimiser",
-      "repo": "metro-train-frequency-capacity-optimization",
-      "desc": "decision-support system on TfL NUMBAT data, with scenario analysis"
-    },
-    {
-      "title": "Bitcoin Volatility on Spark",
-      "repo": "bitcoin-volatility-analysis-using-spark",
-      "desc": "big data pre-processing and volatility analysis"
-    },
-    {
-      "title": "NeuroGrip Report",
-      "repo": "NeuroGrip-Report",
-      "desc": "project report site for NeuroGrip"
-    },
-    {
-      "title": "Space ARS",
-      "repo": "space-ars",
-      "desc": "spacecraft reservation system using Python and MySQL"
-    },
-    {
-      "title": "P2P File Sharing",
-      "repo": "P2P_File_Sharing",
-      "desc": "peer-to-peer file sharing with client, peer and server in Python"
-    },
-    {
-      "title": "2D Adventure Game",
-      "repo": "2D_Adventure_game_in_Java",
-      "desc": "tile-based game in Java with entities and monsters"
-    },
-    {
-      "title": "Emotion Detection",
-      "repo": "realtime_emotion_detection_using_CNN",
-      "desc": "real-time emotion recognition with a CNN"
-    },
-    {
-      "title": "Protein Interaction ML",
-      "repo": "ML_Model_for_predicting_protein_protein_interaction",
-      "desc": "predicting protein-protein interactions"
-    },
-    {
-      "title": "Hangman in Jack",
-      "repo": "Hangman_Game_in_Jack",
-      "desc": "Hangman written in the Jack language"
-    }
+    { "title": "WiseEnergy", "repo": "WiseEnergy", "desc": "Next.js and TypeScript app" },
+    { "title": "SolarView", "repo": "nasa-space-apps", "desc": "animated solar system explorer" },
+    { "title": "Epidemic Spread Simulator", "repo": "epidemic-spread-simulator-using-graphs", "desc": "disease spread over graphs in C, using Dijkstra, Prim's and greedy strategies" },
+    { "title": "Metro Frequency Optimiser", "repo": "metro-train-frequency-capacity-optimization", "desc": "decision-support system on TfL NUMBAT data, with scenario analysis" },
+    { "title": "Bitcoin Volatility on Spark", "repo": "bitcoin-volatility-analysis-using-spark", "desc": "big data pre-processing and volatility analysis" },
+    { "title": "NeuroGrip Report", "repo": "NeuroGrip-Report", "desc": "project report site for NeuroGrip" },
+    { "title": "Space ARS", "repo": "space-ars", "desc": "spacecraft reservation system using Python and MySQL" },
+    { "title": "P2P File Sharing", "repo": "P2P_File_Sharing", "desc": "peer-to-peer file sharing with client, peer and server in Python" },
+    { "title": "2D Adventure Game", "repo": "2D_Adventure_game_in_Java", "desc": "tile-based game in Java with entities and monsters" },
+    { "title": "Emotion Detection", "repo": "realtime_emotion_detection_using_CNN", "desc": "real-time emotion recognition with a CNN" },
+    { "title": "Protein Interaction ML", "repo": "ML_Model_for_predicting_protein_protein_interaction", "desc": "predicting protein-protein interactions" },
+    { "title": "Hangman in Jack", "repo": "Hangman_Game_in_Jack", "desc": "Hangman written in the Jack language" }
   ]
 }
