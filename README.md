@@ -35,7 +35,7 @@
 
 <img src="assets/stack.svg" alt="Tech stack. DESIGN + FRONTEND: FIGMA, REACT, NEXT.JS, TYPESCRIPT, JAVASCRIPT, HTML5, CSS, TAILWIND, MOTION, VITE, EXPO, SHADCN/UI, SEO. BACKEND + DEVOPS: NODE.JS, EXPRESS, FASTAPI, SUPABASE, POSTGRES, MYSQL, DOCKER, VERCEL, RENDER, CLOUDINARY, GIT, GITHUB, ACTIONS. AI + DATA: PYTHON, TENSORFLOW, PYTORCH, KERAS, SCIKIT, NUMPY, PANDAS, OPENCV, JUPYTER, OLLAMA, GEMINI, SPARK, KAFKA, HADOOP, STREAMLIT, PLOTLY. SYSTEMS: JAVA, C, SCALA, ESP32." width="100%">
 
-<img src="assets/departures.svg" alt="Live departure board. Latest public pushes: TFL NUMBAT OPTIMISER on 13 OCT, METRO FREQUENCY OPTIMISER on 23 SEP, HYBRID FORECASTING on 24 MAR, BITCOIN VOLATILITY on 10 MAR. 112 contributions in the last 12 months across 42 active days. 35 repositories, 23 public." width="100%">
+<img src="assets/departures.svg" alt="Live departure board. Latest public pushes: TFL NUMBAT OPTIMISER on 13 OCT, METRO FREQUENCY OPTIMISER on 23 SEP, HYBRID FORECASTING on 24 MAR, BITCOIN VOLATILITY on 10 MAR. 113 contributions in the last 12 months across 42 active days. 36 repositories, 23 public." width="100%">
 
 Many of my design projects live in private repos. Ask me for a walkthrough. The board above updates itself every week from this account.
 
