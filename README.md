@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-<img src="assets/departures.svg" alt="Live departure board, updated weekly. Latest public pushes: TFL NUMBAT OPTIMISER on 13 OCT, METRO FREQUENCY OPTIMISER on 23 SEP, HYBRID FORECASTING on 24 MAR, BITCOIN VOLATILITY on 10 MAR. 114 contributions in the last 12 months across 42 active days. 36 repositories, 23 public." width="100%">
+<img src="assets/departures.svg" alt="Live departure board, updated weekly. Latest public pushes: TFL NUMBAT OPTIMISER on 13 OCT, METRO FREQUENCY OPTIMISER on 23 SEP, HYBRID FORECASTING on 24 MAR, BITCOIN VOLATILITY on 10 MAR. 126 contributions in the last 12 months across 43 active days. 36 repositories, 23 public." width="100%">
 </p>
 
 <details>
