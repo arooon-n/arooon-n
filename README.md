@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-<img src="assets/departures.svg" alt="Live departure board, updated weekly. Latest public pushes: TFL NUMBAT OPTIMISER on 13 OCT, METRO FREQUENCY OPTIMISER on 23 SEP, HYBRID FORECASTING on 24 MAR, BITCOIN VOLATILITY on 10 MAR. 131 contributions in the last 12 months across 44 active days. 36 repositories, 23 public." width="100%">
+<img src="assets/departures.svg" alt="Live departure board, updated weekly. Latest public pushes: STREETSOCCER on 19 NOV, TFL NUMBAT OPTIMISER on 13 OCT, METRO FREQUENCY OPTIMISER on 23 SEP, HYBRID FORECASTING on 24 MAR. 140 contributions in the last 12 months across 46 active days. 36 repositories, 24 public." width="100%">
 </p>
 
 <details>
@@ -78,6 +78,7 @@ I design websites, build what runs behind them, and make sure people can actuall
 - [Emotion Detection](https://github.com/arooon-n/realtime_emotion_detection_using_CNN): real-time emotion recognition with a CNN
 - [Protein Interaction ML](https://github.com/arooon-n/ML_Model_for_predicting_protein_protein_interaction): predicting protein-protein interactions
 - [Hangman in Jack](https://github.com/arooon-n/Hangman_Game_in_Jack): Hangman written in the Jack language
+- [streetsoccer](https://github.com/arooon-n/streetsoccer): vibe-coded football game - full matches with bots, story style plays, custom teams and practice arena
 
 **Tech stack**
 
